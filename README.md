@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello :D im WollyDev also known as WollyWoll you can find me on Telegram and Various other platforms!
+Hello :D im WollyDev also known as Wolly you can find me various platforms!
 
 
 ## 🌐 Socials:
