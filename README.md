@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello :D im WollyDev also known as Wolly you can find me various platforms!
+Hello :D im WollyDev, I'm an Python and Website developer 
 
 
 ## 🌐 Socials:
