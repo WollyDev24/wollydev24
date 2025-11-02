@@ -7,6 +7,10 @@ Hello :D im WollyDev, I'm an Python and Website developer
 
 # 💻 Tech Stack:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+# Visitor:
+![](https://count.getloli.com/get/@WollyDev24?theme=gelbooru)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WollyDev24&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=WollyDev24&theme=material-palenight&hide_border=false)<br/>
