@@ -1,6 +1,13 @@
 # 💫 About Me:
 Hello :D im WollyDev, I'm an Python and Website developer 
 
+# 📚 Discord Status
+<p align="center">
+  <a href="https://discord.com/users/1170509097926414416">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1170509097926414416?theme=dark&bg=050505&animated=true&hideDiscrim=true&borderRadius=8px&idleMessage=Probably%20breaking%20something..." alt="Discord Status" width="500"/>
+  </a>
+</p>
+
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@wollywoll8844) 
