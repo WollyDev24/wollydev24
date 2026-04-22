@@ -10,10 +10,10 @@ Kustom Creator/Designer, Python Development, Beginner in Android coding
   </a>
 </p>
 
-# My Apps & Projects
+# 📱 My Apps & Projects
 
 <details>
-<summary><b>YouShade Expressive</b>Widgets for KWGT inspired by Material Expressive/summary>
+<summary><b>YouShade Expressive</b> Widgets for KWGT inspired by Material Expressive</summary>
 <img src="YouShade.png" alt="YouShade" />
   
 * [YouShade Repo](https://github.com/WollyDev24/YouShade)
