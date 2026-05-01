@@ -23,7 +23,7 @@ Kustom Creator/Designer, Development with Python, Beginner in Android coding
 # 📚 Discord Status
 <p align="center">
   <a href="https://discord.com/users/1170509097926414416">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1170509097926414416?theme=dark&bg=050505&animated=true&hideDiscrim=false&borderRadius=8px&idleMessage=Probably%20eating%20or%20sleeping..." alt="Discord Status" width="500"/>
+    <img src="https://lanyard.cnrad.dev/api/1170509097926414416?showDisplayName=true&idleMessage=sooo%20eepy~~&theme=dark&hideDiscrim=false&hideProfile=false&hideClan=true" alt="Discord Status" width="500"/>
   </a>
 </p>
 
