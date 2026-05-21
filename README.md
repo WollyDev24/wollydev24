@@ -1,65 +1,79 @@
-# 💫 About Me:
-Kustom Creator/Designer, Development with Python, Beginner in Android coding
+<div align="center">
+  <img src="https://github.com/WollyDev24/wollydev24.github.io/blob/main/pictures/placeholder.png?raw=true" alt="Hi I'm Wolly" />
+</div>
 
-# 💻 Tech Stack:
-<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) -->
+<h1 align="center">🌸 Konnichiwa, I'm Wolly! 🌸</h1>
+<h3 align="center">✨ Designer and Developer from Germany ✨</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,vscode,py,arch,discord,bots,figma,github,gitlab,kotlin," />
-  </a>
-</p>
+<div align="center">
 
-# 📱 My Apps & Projects
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wollydev24) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wollydev24@gmail.com) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wolly.is-a.dev)
+
+</div>
+
+## 🎀 About me
+I Design graphics, Develop android apps and create Widgets with Kustom
+
+
+- 🌟 Currently working on **DSBmaterial - Open Source, Modern Material You alternative to the offical DSBmobile app**
+- 🌱 Currently learning **Android Development**
+- 💞 Looking to collaborate on **---**
+- 🍡 Fun fact: every new commit is a bug
+
+
+## 💖 My Tech
+<div align="center">
 
 <details>
-<summary><b>YouShade Expressive</b> Widgets for KWGT inspired by Material Expressive</summary>
-<img src="YouShade.png" alt="YouShade" />
-  
-* [YouShade Repo](https://github.com/WollyDev24/YouShade)
+<summary><b>💻 Languages</b> &nbsp;<sub>(2)</sub></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>DSBmaterial</b> Modern Material You alternative to the Offical DSBmobile app</summary>
-<img src="YouShade.png" alt="DSBmaterial (currently only placeholder)" />
-  
-* [DSBmaterial Repo](https://github.com/WollyDev24/DSBmaterial)
+<summary><b>🎨 Styling</b> &nbsp;<sub>(2)</sub></summary>
+<br/>
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 </details>
 
-# 📚 Discord Status
-<p align="center">
-  <a href="https://discord.com/users/1170509097926414416">
-    <img src="https://lanyard.cnrad.dev/api/1170509097926414416?showDisplayName=true&idleMessage=sooo%20eepy~~&theme=dark&hideDiscrim=false&hideProfile=false&hideClan=true" alt="Discord Status" width="500"/>
+<details>
+<summary><b>☁️ DevOps & Cloud</b> &nbsp;<sub>(3)</sub></summary>
+<br/>
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📱 Mobile</b> &nbsp;<sub>(1)</sub></summary>
+<br/>
+
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+
+</details>
+
+</div>
+
+
+## ⭐ My GitHub Adventures ⭐
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wollydev24&show_icons=true&theme=pink&hide_border=true&count_private=true" alt="wollydev24 stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wollydev24&layout=compact&theme=pink&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=wollydev24&theme=pink&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wollydev24&theme=pink&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=wollydev24&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
+
+
+
+---
+
+<div align="center">
+<a href="https://github.com/wollydev24" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
-</p>
-
-# Visitor:
-![](https://count.getloli.com/get/@WollyDev24?theme=gelbooru)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=WollyDev24&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=WollyDev24&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=WollyDev24&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**WollyDev24/wollydev24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--g to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
