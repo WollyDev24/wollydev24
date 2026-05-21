@@ -61,10 +61,6 @@ I Design graphics, Develop android apps and create Widgets with Kustom
 
 ## ⭐ My GitHub Adventures ⭐
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wollydev24&show_icons=true&theme=pink&hide_border=true&count_private=true" alt="wollydev24 stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wollydev24&layout=compact&theme=pink&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=wollydev24&theme=pink&hide_border=true" alt="GitHub Streak" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=wollydev24&theme=pink&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   <img src="https://komarev.com/ghpvc/?username=wollydev24&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
