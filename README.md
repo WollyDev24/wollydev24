@@ -22,7 +22,7 @@ Kustom Creator/Designer, Development with Python, Beginner in Android coding
 
 <details>
 <summary><b>DSBmaterial</b> Modern Material You alternative to the Offical DSBmobile app</summary>
-<img src="YouShade.png" alt="YouShade" />
+<img src="YouShade.png" alt="DSBmaterial (currently only placeholder)" />
   
 * [DSBmaterial Repo](https://github.com/WollyDev24/DSBmaterial)
 
