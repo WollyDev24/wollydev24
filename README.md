@@ -20,6 +20,12 @@ I Design graphics, Develop android apps and create Widgets with Kustom
 - 💞 Looking to collaborate on **---**
 - 🍡 Fun fact: every new commit is a bug
 
+## 📚 Discord Status
+<p align="center">
+  <a href="https://discord.com/users/1170509097926414416">
+    <img src="https://lanyard.cnrad.dev/api/1170509097926414416?showDisplayName=true&idleMessage=sooo%20eepy~~&theme=dark&hideDiscrim=false&hideProfile=false&hideClan=true" alt="Discord Status" width="500"/>
+  </a>
+</p>
 
 ## 💖 My Tech
 <div align="center">
@@ -61,22 +67,21 @@ I Design graphics, Develop android apps and create Widgets with Kustom
 # 📱 My Apps & Projects
 
 <details>
-<summary><b>YouShade Expressive</b> Widgets for KWGT inspired by Material Expressive</summary>
-<img src="YouShade.png" alt="YouShade" />
+<summary><b>YouShade</b> Material Expressive widgets made with KWGT</summary>
+<img src="https://github.com/WollyDev24/wollydev24/blob/main/YouShade.png?raw=true" alt="YouShade" />
   
 * [YouShade Repo](https://github.com/WollyDev24/YouShade)
+
+</details>
+
 <details>
-<summary><b>DSBmaterial</b> Open Source, material you alternative for the DSBmobile app</summary>
-<img src="DSBmaterial.png" alt="DSBmaterial" />
+<summary><b>DSBmaterial</b> Open Source material you alternative for the DSBmobile app</summary>
+<img src="https://github.com/WollyDev24/wollydev24/blob/main/DBBmaterial.png?raw=true" alt="DSBmaterial" />
   
 * [YouShade Repo](https://github.com/WollyDev24/DSBmaterial)
 
-<details>
-<summary><b>DSBwatch</b> DSBmobile for your Wrist!</summary>
-<img src="DSBwatchBanner.png" alt="DSBwatch" />
+</details>
   
-* [YouShade Repo](https://github.com/WollyDev24/DSBwatch)
-
 
 ## ⭐ My GitHub Adventures ⭐
 <div align="center">
