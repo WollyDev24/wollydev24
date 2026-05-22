@@ -76,9 +76,17 @@ I Design graphics, Develop android apps and create Widgets with Kustom
 
 <details>
 <summary><b>DSBmaterial</b> Open Source material you alternative for the DSBmobile app</summary>
-<img src="https://github.com/WollyDev24/wollydev24/blob/main/DBBmaterial.png?raw=true" alt="DSBmaterial" />
+<img src="https://github.com/WollyDev24/wollydev24/blob/main/DSBmaterial.png?raw=true" alt="DSBmaterial" />
   
-* [YouShade Repo](https://github.com/WollyDev24/DSBmaterial)
+* [DSBmaterial Repo](https://github.com/WollyDev24/DSBmaterial)
+
+</details>
+
+<details>
+<summary><b>DSBmwatch</b> DSBmobile for your wrist</summary>
+<img src="https://github.com/WollyDev24/wollydev24/blob/main/DSBwatchBanner.png?raw=true" alt="DSBmaterial" />
+  
+* [DSBwatch Repo](https://github.com/WollyDev24/DSBwatch)
 
 </details>
   
