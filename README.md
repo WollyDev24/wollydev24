@@ -58,6 +58,25 @@ I Design graphics, Develop android apps and create Widgets with Kustom
 
 </div>
 
+# 📱 My Apps & Projects
+
+<details>
+<summary><b>YouShade Expressive</b> Widgets for KWGT inspired by Material Expressive</summary>
+<img src="YouShade.png" alt="YouShade" />
+  
+* [YouShade Repo](https://github.com/WollyDev24/YouShade)
+<details>
+<summary><b>DSBmaterial</b> Open Source, material you alternative for the DSBmobile app</summary>
+<img src="DSBmaterial.png" alt="DSBmaterial" />
+  
+* [YouShade Repo](https://github.com/WollyDev24/DSBmaterial)
+
+<details>
+<summary><b>DSBwatch</b> DSBmobile for your Wrist!</summary>
+<img src="DSBwatchBanner.png" alt="DSBwatch" />
+  
+* [YouShade Repo](https://github.com/WollyDev24/DSBwatch)
+
 
 ## ⭐ My GitHub Adventures ⭐
 <div align="center">
