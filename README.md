@@ -26,42 +26,12 @@ I Design graphics, Develop android apps and create Widgets with Kustom
   </a>
 </p>
 
-## 💖 My Tech
-<div align="center">
-
-<details>
-<summary><b>💻 Languages</b> &nbsp;<sub>(2)</sub></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🎨 Styling</b> &nbsp;<sub>(2)</sub></summary>
-<br/>
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>☁️ DevOps & Cloud</b> &nbsp;<sub>(3)</sub></summary>
-<br/>
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>📱 Mobile</b> &nbsp;<sub>(1)</sub></summary>
-<br/>
-
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-
-</details>
-
-</div>
+## 💖 My Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,vscode,py,arch,discord,bots,figma,github,gitlab,kotlin," />
+  </a>
+</p>
 
 # 📱 My Apps & Projects
 
