@@ -17,8 +17,7 @@ I Design graphics, Develop android apps and create Widgets with Kustom
 
 - 🌟 Currently working on **DSBmaterial - Open Source, Modern Material You alternative to the offical DSBmobile app**
 - 🌱 Currently learning **Android Development**
-- 💞 Looking to collaborate on **---**
-- 🍡 Fun fact: every new commit is a bug
+- 🍡 Fun fact: every new commit is a new bug
 
 ## 📚 Discord Status
 <p align="center">
