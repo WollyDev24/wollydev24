@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "login": "WollyDev24",
+  "seed": "#C3D3EA",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "stats",
+    "about",
+    "stack",
+    "projects",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Ello! i'm",
+    "name": "",
+    "subtitle": "I Develop Android Apps and Design Things!",
+    "typing": false,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Germany"
+      },
+      {
+        "icon": "code",
+        "label": "Kotlin, Java, Web"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "favorite",
+        "label": "I use Android and Linux"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "Web"
+          },
+          {
+            "icon": "brand:flutter",
+            "label": "Flutter"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:zedindustries",
+            "label": "Zed"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {
+      "YouShade": {
+        "shape": "gem"
+      },
+      "Astra": {
+        "shape": "cookie"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "MTWTFSS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/YouShades"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/bapB8zz7VY"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://wolly.is-a.dev/",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/WollyDev24?tab=repositories",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}

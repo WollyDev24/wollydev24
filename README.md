@@ -1,76 +1,25 @@
 <div align="center">
-  <img src="https://github.com/WollyDev24/wollydev24.github.io/blob/main/pictures/placeholder.png?raw=true" alt="Hi I'm Wolly" />
-</div>
 
-<h1 align="center">🌸 Konnichiwa, I'm Wolly! 🌸</h1>
-<h3 align="center">✨ Designer and Developer from Germany ✨</h3>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Ello! i&#x27;m WollyDev24"></picture>
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="32.661%" alt=""></picture><a href="https://t.me/YouShades"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/bapB8zz7VY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="32.661%" alt=""></picture>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wollydev24) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wollydev24@gmail.com) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wolly.is-a.dev)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-## 🎀 About me
-I Design graphics, Develop android apps and create Widgets with Kustom
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
+<a href="https://github.com/WollyDev24/YouShade"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-youshade-dark.svg"><img src="assets/project-youshade-light.svg" width="49%" alt="YouShade"></picture></a>&nbsp;<a href="https://github.com/WollyDev24/Astra"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-astra-dark.svg"><img src="assets/project-astra-light.svg" width="49%" alt="Astra"></picture></a>
 
-- 🌟 Currently working on **DSBmaterial - Open Source, Modern Material You alternative to the offical DSBmobile app**
-- 🌱 Currently learning **Android Development**
-- 🍡 Fun fact: every new commit is a new bug
+<a href="https://github.com/WollyDev24/Sharky"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sharky-dark.svg"><img src="assets/project-sharky-light.svg" width="49%" alt="Sharky"></picture></a>&nbsp;<a href="https://github.com/WollyDev24/UselessPyScripts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-uselesspyscripts-dark.svg"><img src="assets/project-uselesspyscripts-light.svg" width="49%" alt="UselessPyScripts"></picture></a>
 
-## 📚 Discord Status
-<p align="center">
-  <a href="https://discord.com/users/1170509097926414416">
-    <img src="https://lanyard.cnrad.dev/api/1170509097926414416?showDisplayName=true&idleMessage=sooo%20eepy~~&theme=dark&hideDiscrim=false&hideProfile=false&hideClan=true" alt="Discord Status" width="500"/>
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-## 💖 My Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,vscode,py,arch,discord,bots,figma,github,gitlab,kotlin," />
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-# 📱 My Apps & Projects
+<a href="https://wolly.is-a.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/WollyDev24?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-<details>
-<summary><b>YouShade</b> Material Expressive widgets made with KWGT</summary>
-<img src="https://github.com/WollyDev24/wollydev24/blob/main/YouShade.png?raw=true" alt="YouShade" />
-  
-* [YouShade Repo](https://github.com/WollyDev24/YouShade)
+<a href="https://metawka.github.io/expressive-profile/?from=WollyDev24"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-</details>
-
-<details>
-<summary><b>DSBmaterial</b> Open Source material you alternative for the DSBmobile app</summary>
-<img src="https://github.com/WollyDev24/wollydev24/blob/main/DSBmaterial.png?raw=true" alt="DSBmaterial" />
-  
-* [DSBmaterial Repo](https://github.com/WollyDev24/DSBmaterial)
-
-</details>
-
-<details>
-<summary><b>DSBmwatch</b> DSBmobile for your wrist</summary>
-<img src="https://github.com/WollyDev24/wollydev24/blob/main/DSBwatchBanner.png?raw=true" alt="DSBmaterial" />
-  
-* [DSBwatch Repo](https://github.com/WollyDev24/DSBwatch)
-
-</details>
-  
-
-## ⭐ My GitHub Adventures ⭐
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wollydev24&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
-
-
-
----
-
-<div align="center">
-<a href="https://github.com/wollydev24" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
 </div>
