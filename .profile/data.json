@@ -1,0 +1,403 @@
+{
+ "key": "77d930de",
+ "stars": 43,
+ "contributions": 486,
+ "repos": 22,
+ "followers": 18,
+ "languages": [
+  [
+   "JavaScript",
+   784394
+  ],
+  [
+   "Kotlin",
+   541243
+  ],
+  [
+   "HTML",
+   238586
+  ],
+  [
+   "CSS",
+   83908
+  ],
+  [
+   "Python",
+   67936
+  ],
+  [
+   "Go",
+   10005
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 2,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 24,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 7
+ },
+ "pins": [
+  {
+   "name": "Astra",
+   "url": "https://github.com/WollyDev24/Astra",
+   "text": "Native Material3 Expressive replacement for DSBmobile",
+   "fork": false,
+   "stars": 9,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "dsb",
+    "school"
+   ]
+  },
+  {
+   "name": "YouShade",
+   "url": "https://github.com/WollyDev24/YouShade",
+   "text": "KWGT Widgets inspired by Material 3 Expressive",
+   "fork": false,
+   "stars": 23,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "wollydev24.github.io",
+   "url": "https://github.com/WollyDev24/wollydev24.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "SpeedTest",
+   "url": "https://github.com/WollyDev24/SpeedTest",
+   "text": "Minimal CLI Speedtest using Go and no external dependencies",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "YouShade",
+   "url": "https://github.com/WollyDev24/YouShade",
+   "text": "KWGT Widgets inspired by Material 3 Expressive",
+   "fork": false,
+   "stars": 23,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Astra",
+   "url": "https://github.com/WollyDev24/Astra",
+   "text": "Native Material3 Expressive replacement for DSBmobile",
+   "fork": false,
+   "stars": 9,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "dsb",
+    "school"
+   ]
+  },
+  {
+   "name": "Sharky",
+   "url": "https://github.com/WollyDev24/Sharky",
+   "text": "An easy to use Open Source Discord Bot!",
+   "fork": false,
+   "stars": 5,
+   "language": "Python",
+   "topics": [
+    "cute",
+    "discord-bot",
+    "python3"
+   ]
+  },
+  {
+   "name": "UselessPyScripts",
+   "url": "https://github.com/WollyDev24/UselessPyScripts",
+   "text": "Useless python scripts",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "python",
+    "useless"
+   ]
+  },
+  {
+   "name": "YouShadeBot",
+   "url": "https://github.com/WollyDev24/YouShadeBot",
+   "text": "Management Bot for YouShade",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "SpeedTest",
+   "url": "https://github.com/WollyDev24/SpeedTest",
+   "text": "Minimal CLI Speedtest using Go and no external dependencies",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "DSBwatch",
+   "url": "https://github.com/WollyDev24/DSBwatch",
+   "text": "DSBmobile for your watch with tiles and modern ui!",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "wollydev24.github.io",
+   "url": "https://github.com/WollyDev24/wollydev24.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Anila",
+   "url": "https://github.com/WollyDev24/Anila",
+   "text": "Anime app, for streaming your stuff using the most popular anime servers. Works on Android TV and Tablet as well.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "ScreenShare",
+   "url": "https://github.com/WollyDev24/ScreenShare",
+   "text": "Screen sharing utility for Android and Linux",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "liquidglass-kde-widgets",
+   "url": "https://github.com/WollyDev24/liquidglass-kde-widgets",
+   "text": "Liquid Glass Widgets (MacOS) for KDE Plasma",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "register",
+   "url": "https://github.com/WollyDev24/register",
+   "text": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "dots",
+   "url": "https://github.com/WollyDev24/dots",
+   "text": "illogical-impulse based hyprland shell",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "StreamXWeb",
+   "url": "https://github.com/WollyDev24/StreamXWeb",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "KernelSU_Module_Banner",
+   "url": "https://github.com/WollyDev24/KernelSU_Module_Banner",
+   "text": "Adds Banners to Root Modules for KernelsSU",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "realm",
+   "url": "https://github.com/WollyDev24/realm",
+   "text": "Personal site.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "DOS_E",
+   "url": "https://github.com/WollyDev24/DOS_E",
+   "text": "MS DOS simulator written in python3",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ModMail",
+   "url": "https://github.com/WollyDev24/ModMail",
+   "text": "mod mail bot for Discord",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "YouShadeKWGT",
+   "url": "https://github.com/WollyDev24/YouShadeKWGT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "WindowsTools",
+   "url": "https://github.com/WollyDev24/WindowsTools",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "PowerShell",
+   "topics": []
+  },
+  {
+   "name": "MyFrickingAwseomeSite",
+   "url": "https://github.com/WollyDev24/MyFrickingAwseomeSite",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "wollydev24",
+   "url": "https://github.com/WollyDev24/wollydev24",
+   "text": "✨My own Profile✨",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}

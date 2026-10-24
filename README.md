@@ -10,9 +10,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/WollyDev24/YouShade"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-youshade-dark.svg"><img src="assets/project-youshade-light.svg" width="49%" alt="YouShade"></picture></a>&nbsp;<a href="https://github.com/WollyDev24/Astra"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-astra-dark.svg"><img src="assets/project-astra-light.svg" width="49%" alt="Astra"></picture></a>
+<a href="https://github.com/WollyDev24/Astra"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-astra-dark.svg"><img src="assets/project-astra-light.svg" width="49%" alt="Astra"></picture></a>&nbsp;<a href="https://github.com/WollyDev24/YouShade"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-youshade-dark.svg"><img src="assets/project-youshade-light.svg" width="49%" alt="YouShade"></picture></a>
 
-<a href="https://github.com/WollyDev24/Sharky"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sharky-dark.svg"><img src="assets/project-sharky-light.svg" width="49%" alt="Sharky"></picture></a>&nbsp;<a href="https://github.com/WollyDev24/UselessPyScripts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-uselesspyscripts-dark.svg"><img src="assets/project-uselesspyscripts-light.svg" width="49%" alt="UselessPyScripts"></picture></a>
+<a href="https://github.com/WollyDev24/wollydev24.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wollydev24-github-io-dark.svg"><img src="assets/project-wollydev24-github-io-light.svg" width="49%" alt="wollydev24.github.io"></picture></a>&nbsp;<a href="https://github.com/WollyDev24/SpeedTest"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-speedtest-dark.svg"><img src="assets/project-speedtest-light.svg" width="49%" alt="SpeedTest"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
