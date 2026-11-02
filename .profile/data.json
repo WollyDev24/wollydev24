@@ -1,7 +1,7 @@
 {
- "key": "cc3dfe20",
+ "key": "f94ab3d9",
  "stars": 45,
- "contributions": 467,
+ "contributions": 450,
  "repos": 23,
  "followers": 19,
  "languages": [
@@ -109,9 +109,13 @@
    {
     "c": 2,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
