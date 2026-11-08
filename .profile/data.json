@@ -1,17 +1,17 @@
 {
- "key": "2fb088fb",
- "stars": 45,
- "contributions": 451,
- "repos": 24,
+ "key": "2f5c1507",
+ "stars": 46,
+ "contributions": 502,
+ "repos": 25,
  "followers": 20,
  "languages": [
   [
-   "JavaScript",
-   786091
+   "Kotlin",
+   936726
   ],
   [
-   "Kotlin",
-   541243
+   "JavaScript",
+   786091
   ],
   [
    "HTML",
@@ -100,14 +100,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 16,
     "day": 7,
     "today": false
    }
   ],
   [
    {
-    "c": 0,
+    "c": 35,
     "day": 8,
     "today": true
    },
@@ -120,7 +120,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 2,
   "longest": 7
  },
  "pins": [
@@ -212,6 +212,15 @@
     "python",
     "useless"
    ]
+  },
+  {
+   "name": "Nova",
+   "url": "https://github.com/WollyDev24/Nova",
+   "text": "Bring Live Wallpaper of OEM's to any Android Device!",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
   },
   {
    "name": "YouShadeBot",
