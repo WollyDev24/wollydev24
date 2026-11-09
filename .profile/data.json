@@ -1,13 +1,13 @@
 {
- "key": "2f5c1507",
- "stars": 46,
- "contributions": 502,
+ "key": "a836734",
+ "stars": 47,
+ "contributions": 517,
  "repos": 25,
  "followers": 20,
  "languages": [
   [
    "Kotlin",
-   936726
+   950613
   ],
   [
    "JavaScript",
@@ -19,7 +19,7 @@
   ],
   [
    "Python",
-   183171
+   215726
   ],
   [
    "CSS",
@@ -107,11 +107,15 @@
   ],
   [
    {
-    "c": 35,
+    "c": 40,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -120,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 7
  },
  "pins": [
@@ -202,6 +206,15 @@
    ]
   },
   {
+   "name": "Nova",
+   "url": "https://github.com/WollyDev24/Nova",
+   "text": "Bring Live Wallpaper of OEM's to any Android Device!",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "UselessPyScripts",
    "url": "https://github.com/WollyDev24/UselessPyScripts",
    "text": "Useless python scripts",
@@ -212,15 +225,6 @@
     "python",
     "useless"
    ]
-  },
-  {
-   "name": "Nova",
-   "url": "https://github.com/WollyDev24/Nova",
-   "text": "Bring Live Wallpaper of OEM's to any Android Device!",
-   "fork": false,
-   "stars": 1,
-   "language": "Kotlin",
-   "topics": []
   },
   {
    "name": "YouShadeBot",
