@@ -1,6 +1,6 @@
 {
- "key": "1c708141",
- "stars": 50,
+ "key": "660b58c3",
+ "stars": 51,
  "contributions": 525,
  "repos": 25,
  "followers": 20,
@@ -201,7 +201,7 @@
    "url": "https://github.com/WollyDev24/Nova",
    "text": "Bring Live Wallpaper of OEM's to any Android Device!",
    "fork": false,
-   "stars": 5,
+   "stars": 6,
    "language": "Kotlin",
    "topics": []
   },
