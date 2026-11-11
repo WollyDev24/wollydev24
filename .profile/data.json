@@ -1,13 +1,13 @@
 {
- "key": "cfbfc8a",
+ "key": "9ba3e94",
  "stars": 53,
- "contributions": 525,
+ "contributions": 536,
  "repos": 25,
  "followers": 21,
  "languages": [
   [
    "Kotlin",
-   981527
+   1010671
   ],
   [
    "JavaScript",
@@ -122,7 +122,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 11,
     "day": 11,
     "today": true
    },
@@ -132,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 7
  },
  "pins": [
@@ -159,6 +159,15 @@
    "topics": []
   },
   {
+   "name": "Nova",
+   "url": "https://github.com/WollyDev24/Nova",
+   "text": "Bring Live Wallpaper of OEM's to any Android Device!",
+   "fork": false,
+   "stars": 8,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "wollydev24.github.io",
    "url": "https://github.com/WollyDev24/wollydev24.github.io",
    "text": "",
@@ -174,6 +183,15 @@
    "fork": false,
    "stars": 1,
    "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "YouShadeBot",
+   "url": "https://github.com/WollyDev24/YouShadeBot",
+   "text": "Management Bot for YouShade",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
    "topics": []
   }
  ],

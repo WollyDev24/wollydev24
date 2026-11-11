@@ -12,7 +12,9 @@
 
 <a href="https://github.com/WollyDev24/Astra"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-astra-dark.svg"><img src="assets/project-astra-light.svg" width="49%" alt="Astra"></picture></a>&nbsp;<a href="https://github.com/WollyDev24/YouShade"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-youshade-dark.svg"><img src="assets/project-youshade-light.svg" width="49%" alt="YouShade"></picture></a>
 
-<a href="https://github.com/WollyDev24/wollydev24.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wollydev24-github-io-dark.svg"><img src="assets/project-wollydev24-github-io-light.svg" width="49%" alt="wollydev24.github.io"></picture></a>&nbsp;<a href="https://github.com/WollyDev24/SpeedTest"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-speedtest-dark.svg"><img src="assets/project-speedtest-light.svg" width="49%" alt="SpeedTest"></picture></a>
+<a href="https://github.com/WollyDev24/Nova"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nova-dark.svg"><img src="assets/project-nova-light.svg" width="49%" alt="Nova"></picture></a>&nbsp;<a href="https://github.com/WollyDev24/wollydev24.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wollydev24-github-io-dark.svg"><img src="assets/project-wollydev24-github-io-light.svg" width="49%" alt="wollydev24.github.io"></picture></a>
+
+<a href="https://github.com/WollyDev24/SpeedTest"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-speedtest-dark.svg"><img src="assets/project-speedtest-light.svg" width="49%" alt="SpeedTest"></picture></a>&nbsp;<a href="https://github.com/WollyDev24/YouShadeBot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-youshadebot-dark.svg"><img src="assets/project-youshadebot-light.svg" width="49%" alt="YouShadeBot"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
