@@ -1,5 +1,5 @@
 {
- "key": "9ba3e94",
+ "key": "fbc5dad7",
  "stars": 53,
  "contributions": 536,
  "repos": 25,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "Kotlin",
-   1010671
+   1006388
   ],
   [
    "JavaScript",
@@ -124,9 +124,13 @@
    {
     "c": 11,
     "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
     "today": true
    },
-   null,
    null,
    null
   ]
