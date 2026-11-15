@@ -1,10 +1,14 @@
 {
- "key": "38e5a860",
- "stars": 53,
- "contributions": 537,
+ "key": "114b0913",
+ "stars": 54,
+ "contributions": 542,
  "repos": 26,
  "followers": 21,
  "languages": [
+  [
+   "Smali",
+   310893306
+  ],
   [
    "Kotlin",
    1006388
@@ -31,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 25,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 26,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 27,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 28,
-    "today": false
-   },
-   {
-    "c": 7,
-    "day": 29,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 30,
-    "today": false
-   },
-   {
-    "c": 12,
-    "day": 31,
-    "today": false
-   }
-  ],
   [
    {
     "c": 2,
@@ -137,10 +104,23 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 6,
     "day": 14,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -265,6 +245,15 @@
    ]
   },
   {
+   "name": "MemoryEnhanced",
+   "url": "https://github.com/WollyDev24/MemoryEnhanced",
+   "text": "Samsung's Memory app Patched to work with Custom API's and Support more features",
+   "fork": false,
+   "stars": 1,
+   "language": "Smali",
+   "topics": []
+  },
+  {
    "name": "YouShadeBot",
    "url": "https://github.com/WollyDev24/YouShadeBot",
    "text": "Management Bot for YouShade",
@@ -298,15 +287,6 @@
    "fork": false,
    "stars": 1,
    "language": "HTML",
-   "topics": []
-  },
-  {
-   "name": "MemoryEnhanced",
-   "url": "https://github.com/WollyDev24/MemoryEnhanced",
-   "text": "Samsung's Memory app Patched to work with Custom API's and Support more features",
-   "fork": false,
-   "stars": 0,
-   "language": null,
    "topics": []
   },
   {
