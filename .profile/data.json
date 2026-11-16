@@ -1,9 +1,9 @@
 {
- "key": "8e7d4161",
- "stars": 54,
- "contributions": 547,
+ "key": "28a1d2b2",
+ "stars": 56,
+ "contributions": 551,
  "repos": 27,
- "followers": 21,
+ "followers": 23,
  "languages": [
   [
    "Smali",
@@ -19,7 +19,7 @@
   ],
   [
    "HTML",
-   298550
+   327204
   ],
   [
    "Python",
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 16,
     "today": true
    },
@@ -128,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 7
  },
  "pins": [
@@ -159,7 +159,7 @@
    "url": "https://github.com/WollyDev24/Nova",
    "text": "Bring Live Wallpaper of OEM's to any Android Device!",
    "fork": false,
-   "stars": 8,
+   "stars": 9,
    "language": "Kotlin",
    "topics": []
   },
@@ -219,7 +219,7 @@
    "url": "https://github.com/WollyDev24/Nova",
    "text": "Bring Live Wallpaper of OEM's to any Android Device!",
    "fork": false,
-   "stars": 8,
+   "stars": 9,
    "language": "Kotlin",
    "topics": []
   },
@@ -237,6 +237,15 @@
    ]
   },
   {
+   "name": "MemoryEnhanced",
+   "url": "https://github.com/WollyDev24/MemoryEnhanced",
+   "text": "Samsung's Memory app Patched to work with Custom API's and Support more features",
+   "fork": false,
+   "stars": 2,
+   "language": "Smali",
+   "topics": []
+  },
+  {
    "name": "UselessPyScripts",
    "url": "https://github.com/WollyDev24/UselessPyScripts",
    "text": "Useless python scripts",
@@ -247,15 +256,6 @@
     "python",
     "useless"
    ]
-  },
-  {
-   "name": "MemoryEnhanced",
-   "url": "https://github.com/WollyDev24/MemoryEnhanced",
-   "text": "Samsung's Memory app Patched to work with Custom API's and Support more features",
-   "fork": false,
-   "stars": 1,
-   "language": "Smali",
-   "topics": []
   },
   {
    "name": "YouShadeBot",
@@ -299,7 +299,7 @@
    "text": "A KSU/Magisk/APatch Module to Optimize your Samsung daily!",
    "fork": false,
    "stars": 0,
-   "language": "Shell",
+   "language": "HTML",
    "topics": []
   },
   {
