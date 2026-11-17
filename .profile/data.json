@@ -1,9 +1,9 @@
 {
- "key": "806ca0d2",
- "stars": 56,
+ "key": "3b3fab6b",
+ "stars": 58,
  "contributions": 568,
  "repos": 27,
- "followers": 24,
+ "followers": 25,
  "languages": [
   [
    "Smali",
@@ -241,6 +241,15 @@
    ]
   },
   {
+   "name": "Vertex",
+   "url": "https://github.com/WollyDev24/Vertex",
+   "text": "A KSU/Magisk/APatch Module to Optimize your Samsung daily!",
+   "fork": false,
+   "stars": 2,
+   "language": "HTML",
+   "topics": []
+  },
+  {
    "name": "MemoryEnhanced",
    "url": "https://github.com/WollyDev24/MemoryEnhanced",
    "text": "Samsung's Memory app Patched to work with Custom API's and Support more features",
@@ -294,15 +303,6 @@
    "text": "",
    "fork": false,
    "stars": 1,
-   "language": "HTML",
-   "topics": []
-  },
-  {
-   "name": "Vertex",
-   "url": "https://github.com/WollyDev24/Vertex",
-   "text": "A KSU/Magisk/APatch Module to Optimize your Samsung daily!",
-   "fork": false,
-   "stars": 0,
    "language": "HTML",
    "topics": []
   },
