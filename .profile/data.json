@@ -1,5 +1,5 @@
 {
- "key": "1503da46",
+ "key": "3480cf83",
  "stars": 60,
  "contributions": 580,
  "repos": 27,
@@ -19,7 +19,7 @@
   ],
   [
    "HTML",
-   398834
+   398425
   ],
   [
    "Python",
@@ -128,9 +128,13 @@
    {
     "c": 6,
     "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
     "today": true
    },
-   null,
    null,
    null
   ]
