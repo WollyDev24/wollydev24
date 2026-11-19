@@ -1,6 +1,6 @@
 {
- "key": "3480cf83",
- "stars": 60,
+ "key": "f072a2bf",
+ "stars": 61,
  "contributions": 580,
  "repos": 27,
  "followers": 25,
@@ -236,6 +236,15 @@
    "topics": []
   },
   {
+   "name": "Vertex",
+   "url": "https://github.com/WollyDev24/Vertex",
+   "text": "A KSU/Magisk/APatch Module to Optimize your Samsung daily!",
+   "fork": false,
+   "stars": 5,
+   "language": "HTML",
+   "topics": []
+  },
+  {
    "name": "Sharky",
    "url": "https://github.com/WollyDev24/Sharky",
    "text": "An easy to use Open Source Discord Bot!",
@@ -247,15 +256,6 @@
     "discord-bot",
     "python3"
    ]
-  },
-  {
-   "name": "Vertex",
-   "url": "https://github.com/WollyDev24/Vertex",
-   "text": "A KSU/Magisk/APatch Module to Optimize your Samsung daily!",
-   "fork": false,
-   "stars": 4,
-   "language": "HTML",
-   "topics": []
   },
   {
    "name": "MemoryEnhanced",
