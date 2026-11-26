@@ -1,9 +1,9 @@
 {
- "key": "ab3010e1",
- "stars": 65,
+ "key": "ee4cda0a",
+ "stars": 67,
  "contributions": 588,
  "repos": 29,
- "followers": 26,
+ "followers": 27,
  "languages": [
   [
    "Smali",
@@ -245,6 +245,15 @@
    "topics": []
   },
   {
+   "name": "LiquidTikTok",
+   "url": "https://github.com/WollyDev24/LiquidTikTok",
+   "text": "Bring Liquid Glass to tiktok!",
+   "fork": false,
+   "stars": 5,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "Sharky",
    "url": "https://github.com/WollyDev24/Sharky",
    "text": "An easy to use Open Source Discord Bot!",
@@ -256,15 +265,6 @@
     "discord-bot",
     "python3"
    ]
-  },
-  {
-   "name": "LiquidTikTok",
-   "url": "https://github.com/WollyDev24/LiquidTikTok",
-   "text": "Bring Liquid Glass to tiktok!",
-   "fork": false,
-   "stars": 3,
-   "language": "Kotlin",
-   "topics": []
   },
   {
    "name": "MemoryEnhanced",
