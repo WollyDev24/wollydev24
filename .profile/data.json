@@ -1,5 +1,5 @@
 {
- "key": "16088048",
+ "key": "cbc59da7",
  "stars": 67,
  "contributions": 589,
  "repos": 29,
@@ -138,9 +138,13 @@
    {
     "c": 1,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
